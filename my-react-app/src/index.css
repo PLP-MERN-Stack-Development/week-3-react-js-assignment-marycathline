@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom global styles can be added below */
+body {
+  background-color: hwb(54 31% 3%)
+  ;
+}

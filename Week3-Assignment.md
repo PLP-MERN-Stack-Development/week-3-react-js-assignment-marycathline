@@ -20,7 +20,7 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
 - Implement a layout component that includes the Navbar and Footer
 - Use props to make components customizable and reusable
 
-### Task 3: State Management and Hooks
+### Task 3: State Management and Hooks 
 - Implement a `TaskManager` component that allows users to:
   - Add new tasks
   - Mark tasks as completed

@@ -1,0 +1,11 @@
+/node_modules
+/.env
+/.next
+/.cache
+/.vscode
+/.DS_Store
+/.idea
+/.history
+/package-lock.json
+/.yarn
+
